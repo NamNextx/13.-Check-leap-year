@@ -30,7 +30,7 @@ function changer() {
         if(flag) {nhuộn
             alert("Năm bạn vừa nhập là năm nhuon")
         }
-        else document.write("Năm bạn vừa nhập không phải năm nhuộn ")
+        else alert("Năm bạn vừa nhập không phải năm nhuộn ")
 
     }
     else alert("Can nhap dung dinh dang")
